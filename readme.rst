@@ -37,12 +37,17 @@ Exemplos
 Aplication:
 
 controllers/Base.php (com exemplos de chamada de model,views e email)
+
 models/Base_Model.php (com exemplos de geradores de query e aplicação direta de query)
+
 models/objetos/EX_objeto.php (com exemplo de atributos e metodos magicos set e get)
+
 views/assetsinclude.php (configurar para adicionar os assets e plugins)
+
 views/base.php (Estrutura base de uma pagina html com exemplo de load de outras views e us ode Modal)
 
 Assets:
 
 assets/js/script_ajax.js (Exemplo de ajax com retorno em html)
+
 assets/js/datepicker_confi.js (Configuração do datepicker jquery-ui)
