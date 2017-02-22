@@ -11,14 +11,23 @@ Libraries adicionadas
 *******************
 
 bootstrap 			//http://getbootstrap.com/
+
 jquery-ui 			//https://jqueryui.com/
+
 wickedpicker 		//https://ericjgagnon.github.io/wickedpicker/
+
 jquery-3.1.1.min  	//https://jquery.com/
+
 jquery.mask.min		//https://igorescobar.github.io/jQuery-Mask-Plugin/
+
 jquery.fullPage		//http://alvarotrigo.com/fullPage/
+
 colors 				//http://clrs.cc/
+
 animate.classes 	//https://daneden.github.io/animate.css/
+
 Hover				//https://github.com/IanLunn/Hover
+
 Buttons 			//http://unicorn-ui.com/buttons/builder/
 
 *******************
