@@ -7,7 +7,7 @@ Este projeto é a base que uso para toda aplicação desenvolvida com CodeIgnite
 Ele contém alguns plugins(como o "jquery.fullPage"), arquivos css e js, classes base para o MVC e métodos exemplos  para ajudar, facilitar e agilizar o desenvolvimento.
 
 *******************
-Libraries adicionadas
+Third parties adicionadas
 *******************
 
 bootstrap 			//http://getbootstrap.com/
